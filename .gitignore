@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+known_memos.json
+venv/
+.venv/
